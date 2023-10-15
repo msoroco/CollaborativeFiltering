@@ -1,5 +1,5 @@
 from misc import apply
-from gradentDescent import gradient_descent
+from gradientDescent import gradient_descent
 from functools import partial
 import numpy as np
 
